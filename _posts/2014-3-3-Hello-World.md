@@ -10,8 +10,8 @@ Silakan temukan segala yang Anda butuhkan di situs ini. Kami menyajikannya secar
 Terima kasih, semoga bermanfaat. 
 
 
-[PBN.my.id](https://www.ytb.my.id)
+[PBN.my.id](https://www.pbn.my.id)
 
-[MENU.my.id](https://www.ytb.my.id)
+[MENU.my.id](https://www.menu.my.id)
 
 [YTB.my.id](https://www.ytb.my.id)
