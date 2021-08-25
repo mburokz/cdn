@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: postingan ketiga
+title: Postingan Ketiga
 ---
 ## A New Post
 
