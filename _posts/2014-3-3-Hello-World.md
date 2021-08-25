@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Halo Dunia!
 published: true
 ---
 Selamat datang di blog CDN, blog ini berisi tentang segala sesuatu yang bermanfaat terutama dunia coding, blogging dan website.
