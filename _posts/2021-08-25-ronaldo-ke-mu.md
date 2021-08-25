@@ -2,6 +2,7 @@
 published: true
 type: post
 tags: 'bola, sepakbola, olahraga, berita'
+comments: true
 ---
 ## Ronaldo Jadi ke MU?
 
