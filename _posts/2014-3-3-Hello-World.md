@@ -1,10 +1,17 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+Selamat datang di blog CDN, blog ini berisi tentang segala sesuatu yang bermanfaat terutama dunia coding, blogging dan website.
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Silakan temukan segala yang Anda butuhkan di situs ini. Kami menyajikannya secara gratis alias Free.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Terima kasih, semoga bermanfaat. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+[PBN.my.id](https://www.ytb.my.id)
+
+[MENU.my.id](https://www.ytb.my.id)
+
+[YTB.my.id](https://www.ytb.my.id)
