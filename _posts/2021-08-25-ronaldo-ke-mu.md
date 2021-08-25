@@ -4,9 +4,9 @@ type: post
 tags: 'bola, sepakbola, olahraga, berita'
 comments: true
 ---
-## Ronaldo Jadi ke MU?
-
 <b>Bola.net</b> - Mantan petinggi Bayern Munchen, Karl-Heinz Rummenigge mendesak UEFA untuk bertindak jika Cristiano Ronaldo menuntaskan transfer ke Manchester United di sisa pekan terakhir ini.
+
+## Ronaldo Jadi ke MU?
 
 Gosip kepulangan Ronaldo ke MU memang sempat menguat beberapa pekan lalu. Ronaldo memang sudah membantah langsung, tapi kabar ini tetap mengkhawatirkan, setidaknya bagi Rummenigge.
 
