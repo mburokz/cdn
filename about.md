@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 published: true
 ---
-Selamat datang di blog cdn.pbn.my.id
+Selamat datang di blog [cdn.pbn.my.id]({{site.baseurl}}) 
 
 ### Tentang Blog Ini
 
