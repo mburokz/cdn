@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-
-Assalamu'alaikum. 
 Selamat datang di blog cdn.pbn.my.id
 
 ### Tentang Blog Ini
