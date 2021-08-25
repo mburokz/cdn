@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tentang
-permalink: /about/
+permalink: /tentang/
 published: true
 ---
 Selamat datang di blog [cdn.pbn.my.id]({{site.baseurl}}) 
