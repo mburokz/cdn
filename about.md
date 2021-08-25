@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Assalamu'alaikum. 
+Selamat datang di blog cdn.pbn.my.id
 
-### More Information
+### Tentang Blog Ini
 
-A place to include any other types of information that you'd like to include about yourself.
+Blog ini merupakan blog cdn yang digunakan sebagai Content Delivery Network blog utama yaitu PBN.my.id
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mburokz@gmail.com](mailto:mburokz@gmail.com)
