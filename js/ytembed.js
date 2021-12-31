@@ -358,7 +358,7 @@ var ytEmbed = {
                             token: json.nextPageToken
                         }), false);
                     }
-                    a.innerHTML = 'Load next...';
+                    a.innerHTML = 'Berikutnya';
                     li.appendChild(a); //do through bind
                     pul.appendChild(li);
                 }
@@ -376,7 +376,7 @@ var ytEmbed = {
                             token: json.prevPageToken
                         }), false);
                     }
-                    a.innerHTML = 'Load previous...';
+                    a.innerHTML = 'Sebelumnya';
                     li.appendChild(a);
                     pul.appendChild(li);
                 }
@@ -402,7 +402,7 @@ var ytEmbed = {
         iframe.setAttribute('width', cfg.width);
         iframe.setAttribute('height', cfg.height);
         iframe.setAttribute('frameBorder', '0');
-        iframe.setAttribute('src', 'https://www.youtube.com/embed/' + ytPlayerParams.videoId + '?autoplay=' + ytPlayerParams.autoplay + '&modestbranding=1'); //controlbar set
+        iframe.setAttribute('src', 'https://www.youtube.com/embed/' + ytPlayerParams.videoId + '?autoplay=' + ytPlayerParams.autoplay + '&modestbranding=1' + '&rel=0'); //controlbar set
 
         hold.appendChild(iframe);
         div.insertBefore(hold, div.firstChild);
