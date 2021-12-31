@@ -543,6 +543,7 @@ var ytPlayer;
 var ytPlayerParams = {
     autoplay: 0,
     modestbranding: 1,
+    rel:0,
     events: {
         'onReady': ytEmbed.onPlayerReady,
         'onStateChange': ytEmbed.onPlayerStateChange
