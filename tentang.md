@@ -4,6 +4,7 @@ title: Tentang
 permalink: /tentang/
 published: true
 canonical_url: 'https://cdn.pbn.my.id/tentang'
+description: Blog ini merupakan web statis untuk CDN(Content Delivery Network) blog PBN.my.id yang dihosting di Github Pages dengan Jekyll
 ---
 Selamat datang di blog **cdn.pbn.my.id** 
 
