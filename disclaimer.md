@@ -16,7 +16,7 @@ Setiap tindakan yang Anda lakukan setelah membaca tulisan di [cdn.pbn.my.id](htt
 
 Dari blog ini, kemungkinan Anda bisa mengunjungi web lain dengan meng-klik tautan yang ada di sini. Meskipun kami telah berupaya menjaga link-link yang keluar dari blog ini adalah tautan yang berkualitas, kami tidak memiliki kontrol terhadap konten web-web tersebut. Pemilik web dan kontennya bisa saja berubah di kemudian hari, sebelum kami mengetahuinya dan menghapus link tersebut di blog ini.
 
-Perlu diperhatikan juga. Ketika Anda mengunjungi web lain yang url-nya tertaut di _cdn.pbn.my.id_, bisa saja web tersebut memiliki kebijakan layanan yang berbeda dengan kami. Anda wajib memahami ‘[Kebijakan Privasi]({{/privasi}})’ web-web tersebut sebelum melakukan transaksi atau interaksi apapun di sana.
+Perlu diperhatikan juga. Ketika Anda mengunjungi web lain yang url-nya tertaut di _cdn.pbn.my.id_, bisa saja web tersebut memiliki kebijakan layanan yang berbeda dengan kami. Anda wajib memahami ‘[Kebijakan Privasi](/privasi)’ web-web tersebut sebelum melakukan transaksi atau interaksi apapun di sana.
 
 Persetujuan
 
