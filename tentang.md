@@ -3,6 +3,7 @@ layout: page
 title: Tentang
 permalink: /tentang/
 published: true
+canonical_url: 'https://cdn.pbn.my.id/tentang'
 ---
 Selamat datang di blog **cdn.pbn.my.id** 
 
