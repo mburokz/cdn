@@ -4,12 +4,14 @@ title: Tentang
 permalink: /tentang/
 published: true
 ---
-Selamat datang di blog [cdn.pbn.my.id]({{site.baseurl}}) 
+Selamat datang di blog **cdn.pbn.my.id** 
 
 ### Tentang Blog Ini
 
-Blog ini merupakan blog cdn yang digunakan sebagai Content Delivery Network blog utama yaitu PBN.my.id
+Blog ini merupakan blog cdn yang digunakan sebagai Content Delivery Network blog utama yaitu [PBN.my.id](https://www.pbn.my.id)
 
 ### Contact me
 
-[mburokz@gmail.com](mailto:mburokz@gmail.com)
+Untuk info lebih lanjut hubungi saya melalui email berikut
+
+[admin@pbn.my.id](mailto:admin@pbn.my.id)
