@@ -2,6 +2,7 @@
 type: page
 permalink: /privasi/
 published: true
+title: Kebijakan Privasi
 ---
 ## Kebijakan Privasi CDN PBN
 
