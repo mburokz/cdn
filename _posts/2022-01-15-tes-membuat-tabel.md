@@ -12,6 +12,14 @@ Membuat tabel di Jekyll jauh lebih mudah daripada format HTML dan CSS.
 
 Berikut ini contohnya:
 
+~~~
+|Baris 1 | Kolom 2|
+|--------|--------|
+|baris 2|Baris 2|
+|Baris 3|Baris 3| 
+~~~
+Hasilnya seperti ini:
+
 |Baris 1 | Kolom 2|
 |--------|--------|
 |baris 2|Baris 2|
