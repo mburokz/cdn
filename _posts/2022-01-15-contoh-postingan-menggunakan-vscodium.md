@@ -1,13 +1,12 @@
 ---
 type: post
 published: true
-title: Tes VSCodium
 comments: true
 ---
 
-## Contoh Postingan Menggunakan VSCodium
-
 Selain menggunakan text editor manual, kamu juga bisa menggunakan program/aplikasi open source yang keren bernama **VSCodium**
+
+## Contoh Postingan Menggunakan VSCodium
 
 _Ini contoh Tabel_
 
