@@ -8,9 +8,9 @@ description: Tutorial cara membuat tabel di Jekyll
 
 Membuat tabel di Jekyll jauh lebih mudah daripada format HTML dan CSS.
 
-Berikut ini contohnya:
-
 ### Tes Membuat Tabel di Jekyll ###
+
+Berikut ini contohnya:
 
 |Baris 1 | Kolom 2|
 |--------|--------|
