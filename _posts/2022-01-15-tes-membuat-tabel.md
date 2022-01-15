@@ -10,7 +10,7 @@ Membuat tabel di Jekyll jauh lebih mudah daripada format HTML dan CSS.
 
 Berikut ini contohnya:
 
-### Tes Membuat Tabel di Jekyll
+### Tes Membuat Tabel di Jekyll ###
 
 |Baris 1 | Kolom 2|
 |--------|--------|
