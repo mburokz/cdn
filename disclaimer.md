@@ -16,6 +16,6 @@ Dari blog ini, kemungkinan Anda bisa mengunjungi web lain dengan meng-klik tauta
 
 Perlu diperhatikan juga. Ketika Anda mengunjungi web lain yang url-nya tertaut di _cdn.pbn.my.id_, bisa saja web tersebut memiliki kebijakan layanan yang berbeda dengan kami. Anda wajib memahami ‘[Kebijakan Privasi](/privasi)’ web-web tersebut sebelum melakukan transaksi atau interaksi apapun di sana.
 
-Persetujuan
+**Persetujuan**
 
 Dengan menggunakan situs web kami, Anda dengan ini menyetujui Disclaimer kami dan menyetujui segala ketentuannya.
