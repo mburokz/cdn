@@ -1,10 +1,8 @@
 ---
 type: page
-permalink: /disclaimer/
+permalink: /disclaimer
 published: true
 ---
-
-## Disclaimer 
 
 _Disclaimer untuk **CDN PBN**_
 
