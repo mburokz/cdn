@@ -8,7 +8,7 @@ comments: true
 ## Tutorial Membuat Postingan di Jekyll ##
 
 **Jekyll** merupakan sebuah platform blog/website CMS dengan lisensi Open source yang bisa dihosting di _Github, Netlify dll_. 
-
+![Markdown](/images/markdown.png)
 Untuk membuat postingan di Jekyll, kamu bisa membuat tulisan seperti blog biasa di folder **_posts** dalam format .md alias *Markdown*
 
 Jangan lupa pada bagian filename gunakan format: **yyyy-mm-dd-judul-postingan.md**
@@ -25,9 +25,8 @@ Jadi sebaiknya pelajari bahasa Markdown ini, jauh lebih sederhana kok daripada *
 Kamu juga bisa membuat postingan dengan cara upload file **.md** dari pc/hp kamu. Tentu saja upload di folder/directory **_posts** dengan format nama file seperti tertera di atas. 
 Gunakan notepad atau notepad+ dan aplikasi text editor lainnya dalam membuat postingan agar lebih mudah. 
 
-### Penutup ###
+## Penutup ##
 
-Cukup mudah kan membuat postingan di Jekyll? Bagi yang baru mempelajari tentu akan kebingungan karena bahasanya berbeda dengan *Blogger* maupun *WordPress*
+Cukup mudah kan **Cara membuat postingan di Jekyll?** Bagi yang baru mempelajari tentu akan kebingungan karena bahasanya berbeda dengan *Blogger* maupun *WordPress*
 
 Selamat berkreasi 😊
-. 
