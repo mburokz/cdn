@@ -4,7 +4,7 @@ permalink: /disclaimer
 published: true
 ---
 
-## Disclaimer untuk CDN PBN ##
+**Disclaimer untuk CDN PBN**
 
 Segala informasi yang kami sampaikan di blog ini diterbitkan dengan tujuan baik dan hanya untuk tujuan informasi secara umum.
 
