@@ -14,5 +14,5 @@ Berikut ini contohnya:
 
 |Baris 1 | Kolom 2|
 |--------|--------|
-|baris2 kolom 1 |Baris 2 kolom 2|
-|Baris 3 kolom 1|Baris 3 kolom 2|
+|baris 2|Baris 2|
+|Baris 3|Baris 3|
