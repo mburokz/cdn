@@ -4,7 +4,7 @@ published: true
 comments: true
 ---
 
-Selain menggunakan text editor manual, kamu juga bisa menggunakan program/aplikasi open source yang keren bernama **VSCodium**
+Selain menggunakan text editor manual, kamu juga bisa menggunakan program/aplikasi open source yang keren bernama **VSCodium**.
 
 ## Contoh Postingan Menggunakan VSCodium
 
