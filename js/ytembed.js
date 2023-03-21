@@ -232,7 +232,7 @@ var ytEmbed = {
         css.innerText = ".ytlist { position: relative; } .ytCredits { display: absolute; right: 0; padding 5px; font-size: .8em; }"
         var credits = document.createElement('div');
         credits.className = "ytcredits";
-        credits.innerHTML = "Powered by <a href=\"https://ytb.my.id\">YTB</a>";
+        credits.innerHTML = "Powered by <a href=\"https://pbn.my.id\">PBN</a>";
 
 
         //div.innerHTML = ''; //clear ul
